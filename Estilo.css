@@ -1,0 +1,51 @@
+ *{
+  font-family: "Playwrite BR", cursive;
+  font-style:normal
+  
+
+}
+p , h1, article{
+    color:white;
+    text-align: center;
+    padding: -5px;
+    opacity: 100%;
+    
+}
+h2{
+    color:white;
+    text-align: center;
+    padding: 10px;
+    opacity: 100%;
+    font-size: 50px;
+}
+.texto1{
+    background-color: darkgreen;
+    border-radius: 50px;
+    opacity:100%;
+}
+header{
+    
+    background-color: black;
+    border-radius: 50px;
+}
+body{
+    background-image:url("fundo1.jpg");
+    background-size: auto;
+    margin: 50px;
+
+}
+a:hover{
+    color: green;
+}
+
+a:link{
+color: red;
+}
+main{
+    opacity: 100%;
+}
+footer{
+    background-color: black;
+    opacity: 70%;
+    border-radius: 50px;
+}
